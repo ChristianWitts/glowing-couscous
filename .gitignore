@@ -3,3 +3,6 @@
 Debug/
 .vs/
 packages/
+*.VC.VC.opendb
+*.VC.db
+*.vcxproj.filters
