@@ -97,13 +97,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter 1\chapter1.cpp" />
+    <ClCompile Include="Chapter 2\chapter2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Chapter 1\chapter1.hpp" />
+    <ClInclude Include="Chapter 2\chapter2.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
