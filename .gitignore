@@ -69,3 +69,9 @@ packages/
 
 # Cache files for the editor to use
 **/DerivedDataCache/*
+
+# Rust ignore
+#Cargo.lock
+**/target/
+target
+
