@@ -13,3 +13,14 @@ MOOCs
 -----
 
 * [The Unreal Engine Developer Course](https://www.udemy.com/unrealcourse/learn/v4/overview)
+
+Competitive Programming
+-----------------------
+
+* [Advent of Code](http://adventofcode.com/)
+
+Language Learning
+-----------------
+
+* [exercism](http://exercism.io/)
+
