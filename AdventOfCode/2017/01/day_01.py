@@ -21,7 +21,7 @@ def part1():
 
 
 def part2():
-    print("================== PART 1 ==================")
+    print("================== PART 2 ==================")
     _in = _input
     l_in = int(len(_in)/2)
     print(
