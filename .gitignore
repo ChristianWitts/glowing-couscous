@@ -142,4 +142,5 @@ target/
 # JetBrains
 .idea/
 
-
+# Nim-lang
+**/nimcache
