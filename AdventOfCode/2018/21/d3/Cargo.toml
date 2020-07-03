@@ -1,0 +1,9 @@
+[package]
+name = "d3"
+version = "0.1.0"
+authors = ["Christian Witts <cwitts@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+itertools = "0.8.0"
+linked_hash_set = "0.1.3"

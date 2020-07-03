@@ -1,3 +1,4 @@
+# `nimble install itertools` for 3rd party dependencies
 # nim c -r -d:release
 
 import strutils
